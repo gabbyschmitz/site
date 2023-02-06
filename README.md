@@ -1,2 +1,1 @@
-# my website
 gabbyschmitz.com
